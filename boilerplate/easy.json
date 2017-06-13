@@ -1,0 +1,25 @@
+{
+    "name": "${name}",
+    "title": "普通按钮",
+    "logo": "",
+    "class": 14,
+    "type": "${type}",
+    "limit": 0,
+    "disable": 0,
+    "forpage": ["index", "list", "static"],
+    "properties": [{
+            "name": "text",
+            "value": "输入按钮名称",
+            "validator": {
+                "type": "text",
+                "size": 12,
+                "required": true
+            },
+            "ui": {
+                "type": "text",
+                "label": "按钮文字："
+            }
+        }
+
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "easy-cli-boilerplate",
+    "version": "1.0.0",
+    "description": "easy cli boilerplate",
+    "preferGlobal": true,
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mipengine/mip-cli-boilerplate"
+    },
+    "keywords": [
+        "easygo",
+        "easygo",
+        "easygo-cli"
+    ],
+    "contributors": [{
+            "name": "cuihonglei",
+            "email": "cuihonglei2xj@gmail.com"
+        },
+
+    ],
+    "license": "MIT",
+    "engines": {
+        "node": ">=4.0.0"
+    },
+    "files": [
+        "boilerplate"
+    ]
+}
