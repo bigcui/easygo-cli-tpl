@@ -6,7 +6,7 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mipengine/mip-cli-boilerplate"
+        "url": "https://github.com/bigcui/easygo-cli-tpl"
     },
     "keywords": [
         "easygo",
